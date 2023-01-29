@@ -8,7 +8,7 @@ import { ProyectsComponent } from './components/proyects/proyects.component';
 const routes: Routes = [
   {path: '', component:HomeComponent},
   {path: 'home', component:HomeComponent},
-  {path: 'acerca-de-mi', component:AcercaDeMiComponent},
+  {path: 'about', component:AcercaDeMiComponent},
   {path: 'proyects', component:ProyectsComponent},
   {path: 'contact', component:ContactComponent}
 
